@@ -2,3 +2,7 @@
 	path = chiffre
 	url = git@github.com:RerikOp/chiffre.git
 	branch = master
+[submodule "vivado-risc-v"]
+	path = vivado-risc-v
+	url = git@github.com:RerikOp/vivado-risc-v.git
+	branch = master
