@@ -1,0 +1,4 @@
+[submodule "chiffre"]
+	path = chiffre
+	url = git@github.com:RerikOp/chiffre.git
+	branch = master
