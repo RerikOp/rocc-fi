@@ -6,3 +6,7 @@
 	path = vivado-risc-v
 	url = git@github.com:RerikOp/vivado-risc-v.git
 	branch = master
+[submodule "riscv-tests"]
+	path = riscv-tests
+	url = https://github.com/riscv-software-src/riscv-tests.git
+	branch = master
